@@ -1,0 +1,12 @@
+F:\PhoneBookApplication\PhoneBookLib\bin\Debug\net6.0\PhoneBookLib.deps.json
+F:\PhoneBookApplication\PhoneBookLib\bin\Debug\net6.0\PhoneBookLib.dll
+F:\PhoneBookApplication\PhoneBookLib\bin\Debug\net6.0\PhoneBookLib.pdb
+F:\PhoneBookApplication\PhoneBookLib\obj\Debug\net6.0\PhoneBookLib.csproj.AssemblyReference.cache
+F:\PhoneBookApplication\PhoneBookLib\obj\Debug\net6.0\PhoneBookLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\PhoneBookApplication\PhoneBookLib\obj\Debug\net6.0\PhoneBookLib.AssemblyInfoInputs.cache
+F:\PhoneBookApplication\PhoneBookLib\obj\Debug\net6.0\PhoneBookLib.AssemblyInfo.cs
+F:\PhoneBookApplication\PhoneBookLib\obj\Debug\net6.0\PhoneBookLib.csproj.CoreCompileInputs.cache
+F:\PhoneBookApplication\PhoneBookLib\obj\Debug\net6.0\PhoneBookLib.dll
+F:\PhoneBookApplication\PhoneBookLib\obj\Debug\net6.0\refint\PhoneBookLib.dll
+F:\PhoneBookApplication\PhoneBookLib\obj\Debug\net6.0\PhoneBookLib.pdb
+F:\PhoneBookApplication\PhoneBookLib\obj\Debug\net6.0\ref\PhoneBookLib.dll

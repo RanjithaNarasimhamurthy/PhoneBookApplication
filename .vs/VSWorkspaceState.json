@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PhoneBookLib",
+    "\\PhoneBookMVC",
+    "\\PhoneBookMVC\\Controllers",
+    "\\PhoneBookMVC\\Views",
+    "\\PhoneBookMVC\\Views\\Shared",
+    "\\PhoneBookMVC\\wwwroot",
+    "\\PhoneBookMVC\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\PhoneBookLib\\ContactDataAccessLayer.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,31 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<style>
+    .custom-class {
+        text-decoration: none;
+    }
+</style>
+
+
+    <div class="row1">
+        <ul id="tab">
+            <li>
+                <button onclick="window.location.href = '@Url.Action("Home", "Contact")'">
+                    Contact List
+                </button>
+            </li>
+            <li>
+                <button onclick="window.location.href = '@Url.Action("Index", "Contact")'">
+                    Home
+                </button>
+            </li>
+            <li>
+                <button onclick="window.location.href = '@Url.Action("Create", "Contact")'">
+                    Add New Contact
+                </button>
+            </li>
+
+        </ul>
+    </div>
